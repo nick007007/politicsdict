@@ -1,3 +1,3 @@
 # politicsdict
 
-!()[img.png]
+![](img.png)
